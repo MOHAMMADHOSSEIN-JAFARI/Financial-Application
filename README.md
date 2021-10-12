@@ -1,4 +1,4 @@
-# shiny
+
 # Financial Tablet
 ## Table of contents
 *  General Finformation
