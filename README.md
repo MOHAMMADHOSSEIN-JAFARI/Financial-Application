@@ -1,7 +1,7 @@
 
 # Financial Tablet
 ## Table of contents
-*  General Finformation
+*  General Information
 * Technologies
 * Applications
 * Sources
@@ -17,7 +17,7 @@ For making this Shinyapp, the "R version 4.0.4" and RStudio "version 1.4.1103" h
 ### Applications
 
 
-This ShinyApp can be used to watch and analyze the historical data of Microsoft Co. The data is downloaded from the website https://finance.yahoo.com/ by using the famous package Quantmod. For showing better the price of the stocks the candlestick chart has been used. 
+This ShinyApp can be used to watch and analyze the historical data and financial Indicators. The data is downloaded from the website https://finance.yahoo.com/ by using the famous package Quantmod. For showing better the price of the stocks the candlestick chart has been used. 
 Financial indicators: The users can also choose which financial indicator they are interested in to be shown in the chart. 
 The financial indicators which have been shown in the selectInput part are RSI, MACD, and EMA which are used highly by analysts and investors. It is also possible for the user to choose the duration of showing the data. 
 
